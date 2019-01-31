@@ -1,4 +1,4 @@
-#Decor8
+# Decor8
 
 Decor8 is a lightweight collection of useful decorators to modify and describe functions.
 
